@@ -4,6 +4,7 @@ title: (Computer) Networking Truth
 ---
 
 Came across [RFC1925](https://tools.ietf.org/html/rfc1925) which is fun to read. Twelve truth mentioned in the RFC about networking are:
+
    (1)  It Has To Work.
 
    (2)  No matter how hard you push and no matter what the priority,
@@ -13,6 +14,7 @@ Came across [RFC1925](https://tools.ietf.org/html/rfc1925) which is fun to read.
              baby in much less than 9 months. Trying to speed this up
              *might* make it slower, but it won't make it happen any
              quicker.
+
    (3)  With sufficient thrust, pigs fly just fine. However, this is
         not necessarily a good idea. It is hard to be sure where they
         are going to land, and it could be dangerous sitting under them
