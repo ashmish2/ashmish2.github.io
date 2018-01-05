@@ -16,6 +16,7 @@ So to make it hard for cracker, multiple combination of password along with salt
 Salt is just a randomly generated string used along with password (suffix, prefix etc) to make it harder to crack.
 
 Some of the possible combinations can be : 
+
 sha1(password + salt)
 
 sha1( sha1(password)  + sha1(salt)) 
