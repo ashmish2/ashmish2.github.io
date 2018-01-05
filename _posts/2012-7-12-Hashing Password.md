@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What can we learn from big oil companies?
+title: Hashing Password
 ---
-Recently, Anonymous attacked [Oil companies](http://www.valuewalk.com/2012/07/exxon-shell-bp-gazprom-and-rosneft-emails-hacked-by-anonymous/).
+What can we learn from big oil companies? Recently, Anonymous attacked [Oil companies](http://www.valuewalk.com/2012/07/exxon-shell-bp-gazprom-and-rosneft-emails-hacked-by-anonymous/).
 They also posted details on pastebin. Most of the passwords are in hashed form (as expected). But some passwords are in clear text as well and the reason is very evident if you look at the passwords used.
 Some of them are:
 
