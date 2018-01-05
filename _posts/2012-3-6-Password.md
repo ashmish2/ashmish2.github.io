@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: security
 title: Password
 ---
 
