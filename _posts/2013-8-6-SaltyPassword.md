@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hashing Password
+title: Salty Password
 ---
  As I mentioned in [my recent post](https://ashmish2.github.io/OilHack/), some big oil companies were hacked recently. 
  Linkedin also [got hacked recently](https://www.pcworld.com/article/257045/security/6-5m-linkedin-passwords-posted-online-after-apparent-hack.html) and millions of password were stolen.
